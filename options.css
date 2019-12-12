@@ -1,0 +1,65 @@
+body {
+    background: #c9bda3;
+}
+
+.menu {
+    background-color: #ede2cb;
+    height: 440px;
+    width: 700px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+.caption {
+    padding: 5px;
+    background-color: #d8c7a4;
+    margin: -5px;
+}
+.save {
+    padding: 5px;
+    margin: 20px;
+    background-color: #ddb09d;
+    border-radius: 20px;
+}
+.save:hover {
+    padding: 5px;
+    margin: 10px;
+    margin-top: 25px;
+    background-color: #d89a7f;
+}
+h3{
+    margin-left: -350px;
+}
+#blue{
+    width: 60px;
+    float: left;
+    padding: 4px;
+    background-color: #0095DD;
+    margin-left: 30px;
+    cursor: pointer;
+}
+#red{
+    width: 60px;
+    float: left;
+    padding: 4px;
+    background-color: #dd0000;
+    margin-left: 30px;
+    cursor: pointer;
+}
+#green{
+    width: 60px;
+    float: left;
+    padding: 4px;
+    background-color: #00dd88;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.colors{
+    margin-top: -30px;
+    margin-left: 250px;
+}
+.optcolor{
+    background-color: #e0d3b8;
+}

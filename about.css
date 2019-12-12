@@ -1,0 +1,32 @@
+body{
+    background-color: #c9bda3;
+}
+.menu {
+    background-color: #ede2cb;
+    height: 440px;
+    width: 700px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+.caption {
+    padding: 5px;
+    background-color: #d8c7a4;
+    margin: -5px;
+}
+.back{
+    padding: 5px;
+    margin: 20px;
+    background-color: #ddb09d;
+    border-radius: 20px;
+}
+.back:hover {
+    padding: 5px;
+    margin: 10px;
+    margin-top: 25px;
+    background-color: #d89a7f;
+}
+.optcolor{
+    background-color: #e0d3b8;
+}
